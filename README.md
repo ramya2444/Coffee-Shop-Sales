@@ -185,7 +185,7 @@ The Coffee Shop Sales Dashboard provides a comprehensive overview of sales perfo
 
 # 👨‍💻 Author
 
-**Your NameM**  
+**Makkina Ramyapriya**  
 Data Analyst | Excel Dashboard Developer
 
 ---
